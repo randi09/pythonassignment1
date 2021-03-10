@@ -2,6 +2,8 @@
 # nameofVariable = assignedValieToVariable
 # String === "", "word", "1", "functionName"
 greeting = "Welcome to Digital Crafts Boot Camp"
+classSize = 23
+somethingToCallIt = ['students', 23, True]
 print(greeting)
 # List, sequence of values followed by [value1, value2, etc]
 #[1, 2, 3]
@@ -11,3 +13,6 @@ print(greeting)
 #{"stringName": "StringValue"}
 # {"FavoriteColor": "Red"}
 # Name, assignment operator (=), value that I am assigning
+print("I am programming")
+print(classSize)
+print(somethingToCallIt)
