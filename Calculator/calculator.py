@@ -15,3 +15,7 @@ num_6 = int(input("Enter another Number"))
 print(num_5 / num_6)
 
 
+num_7 = int(input("Enter a Number"))
+num_8 = int(input("Enter another Number"))
+
+print(num_7 - num_8)
